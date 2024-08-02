@@ -1,6 +1,16 @@
-## Hi there 👋
+## Hi there
+BOAS VINDAS AO MEU PERFIL💗🎈
+- estou estudando no Alura
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
-<!--
+Você pode entrar em contato comigo 📫
+00001145244415sp@al.educacao.sp.gov.br
+
+@alurastartestudante
+
+
+
 **senaheloisa/senaheloisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
